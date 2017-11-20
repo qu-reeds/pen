@@ -1,2 +1,3 @@
-# unprocessed
-Storage for unprocessed items (see wiki)
+# pen
+
+reed processing (see [wiki](https://github.com/qu-reeds/pen/wiki))
